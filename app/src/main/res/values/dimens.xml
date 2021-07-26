@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_margin">8dp</dimen>
+    <dimen name="button_bottom_margin">70dp</dimen>
+    <dimen name="spinner_margin">16dp</dimen>
+    <dimen name="result_margin">20dp</dimen>
+</resources>
